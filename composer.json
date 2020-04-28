@@ -6,7 +6,7 @@
     "homepage": "https://github.com/raulr/google-play-scraper",
     "license": "MIT",
     "require": {
-        "Parammarok/Goutte"
+        "Parammarok/Goutte": "master"
     },
     "authors": [
         {
